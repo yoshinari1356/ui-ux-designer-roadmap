@@ -30,6 +30,8 @@ If you have any improvements, don't hesitate to post an [issue](https://github.c
 
 
 ## 🚀 Introduction
+技術系スタートアップを成功させるには、多くの要因が必要です。 美的な```ユーザーインターフェース（UI）```と優れた```ユーザーエクスペリエンス（UX）```を持つことは、起業家としての成功に欠かせない要素です。 これらの興味深い分野は非常に若い分野であり、さまざまな分野の知識が必要です。 中小企業を始めるとき、限られた予算で多くの専任の専門家を雇うことは現実的ではありません。 通常、優れた最小実行可能製品（MVP）の最初の反復は、**ハイブリッド**によって行われます。 このガイドは、優れたMVPを作成し、最初の**無駄のない方法**で設計/心理学の少なくとも80％を正しく取得するのに役立つことを目的としています。
+
 Creating a successful tech startup depends on many factors. Having an aesthetic ```user interface (UI)``` and a great ```user experience (UX)``` are integral parts of entrepreneurial success. These interesting fields are quite young disciplines and require knowledge in different areas. When starting a small business, hiring lots of dedicated specialists with a limited budget is not realistic. Usually, the first iteration of a great Minimum Viable Product (MVP) is done by **hybrids**. This guide is meant to help you creating a great MVP and get at least 80% of the design/psychology right on the first try - **the lean way**.
 
 ![The Lean Method of Building Startups by Eric Ries](https://cdn-images-1.medium.com/max/800/1*NmN8fTliAkgy1xpt9lLn7g.png)
@@ -37,14 +39,26 @@ Creating a successful tech startup depends on many factors. Having an aesthetic 
 *Referenced from [https://cdn-images-1.medium.com/max/800/1*NmN8fTliAkgy1xpt9lLn7g.png](https://cdn-images-1.medium.com/max/800/1*NmN8fTliAkgy1xpt9lLn7g.png)*
 
 ## Distinguishing Between UI and UX
+多くの場合、人々は```UI```と```UX```という用語を同じ意味で使用します。 いくつかの共有要素にもかかわらず、顕著な違いがあります。 
+これが簡単な定義です:
+
+- 人々が__UI__と言うとき、それらは通常、グラフィックデザイン、色、フォント、背景、ボタン、ストックフォト、アイコンなどに関連するすべてを意味します。
+- 人々が__UX__と言うとき、それらは通常、心理学、人間の意思決定、ユーザーリサーチ、ペルソナ、ユーザーストーリー、ワークフロー、A/Bテスト、統計的評価などに関連するタスクを意味します。
+
 Often times, people use the terms ```UI``` and ```UX``` interchangeably. Despite some shared elements, there are notable differences. Here is a simple definition:
 
 - When people say __UI__, they usually mean everything related to graphic design, colors, fonts, backgrounds, buttons, stock photos, icons etc.
 - When people say __UX__, they usually mean tasks related to psychology, human decision making, user research, personas, user stories, workflows, A/B testing, statistical evaluation and so on.
 
+
+ここでは、UIとUXの両方の人々がテーブルにもたらすことが期待される共通の特徴を見ることができます:
+
 Here, you see the common characteristics which both UI and UX people are expected to bring to the table:
 
 ![Intro Roadmap](http://i.imgur.com/1mddZ84.png)
+
+何かを設計する前に、基礎となるビジネスモデルを理解することが基本です。 顧客のためにどのような痛みを解決したいですか？ そのためには、[Business Model Canvas] フレームワークのご利用をお勧めします。
+テンプレートは[こちら](https://canvanizer.com/downloads/business_model_canvas_poster.pdf)からダウンロードできます
 
 Before designing anything, it is fundamental to understand the underlying business model. What pain do you want to solve for your customer? For that, I recommend using the [Business Model Canvas](http://s3.amazonaws.com/academia.edu.documents/32253198/businessmodelgenerationpreview.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1497631663&Signature=Is7e1dMbArrSpo%2FOJnACX3dtzEk%3D&response-content-disposition=inline%3B%20filename%3DYoure_holding_a_handbook_for_visionaries.pdf) framework. The template can be downloaded from [here](https://canvanizer.com/downloads/business_model_canvas_poster.pdf).
 
